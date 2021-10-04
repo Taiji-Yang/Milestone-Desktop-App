@@ -3,7 +3,7 @@
 ![application preview](docs/sample.gif)
 
 
-# Application Preview
+# Documentation
 
 Coming soon...
 
